@@ -93,6 +93,7 @@ local.properties
 hs_err_pid*
 replay_pid*
 
+
 # End of https://www.toptal.com/developers/gitignore/api/java,eclipse
 
 ##### commit 제외파일 #####
@@ -107,3 +108,4 @@ replay_pid*
 /Git_ignore_test/src/main/webapp/WEB-INF/web.xml
 .classpath
 .gitignore
+/Git_ignore_test/src/main/webapp/WEB-INF/Command.properties
